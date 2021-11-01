@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: a6961648c98015c4ea0ad3620c35aa56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -802957681777597681
+    second: cab_characters_walk_0
+  - first:
+      213: 5912458989500771098
+    second: cab_characters_walk_1
+  - first:
+      213: 8732883349011722728
+    second: cab_characters_walk_2
+  - first:
+      213: -8979695422267997359
+    second: cab_characters_walk_3
+  - first:
+      213: -8027268247369621697
+    second: cab_characters_walk_4
+  - first:
+      213: 2507491523373284743
+    second: cab_characters_walk_5
+  - first:
+      213: 3784487149179389271
+    second: cab_characters_walk_6
+  - first:
+      213: 1995669377278170143
+    second: cab_characters_walk_7
+  - first:
+      213: 1552674106728852883
+    second: cab_characters_walk_8
+  - first:
+      213: -4751634595205511626
+    second: cab_characters_walk_9
+  - first:
+      213: 2182164909360145797
+    second: cab_characters_walk_10
+  - first:
+      213: 4306500505436800563
+    second: cab_characters_walk_11
+  - first:
+      213: 7005467622106198374
+    second: cab_characters_walk_12
+  - first:
+      213: 6869614274196910419
+    second: cab_characters_walk_13
+  - first:
+      213: -1472410595346010925
+    second: cab_characters_walk_14
+  - first:
+      213: 7543935596742508949
+    second: cab_characters_walk_15
+  - first:
+      213: 5881190504398804109
+    second: cab_characters_walk_16
+  - first:
+      213: 493575005267623995
+    second: cab_characters_walk_17
+  - first:
+      213: 6294177255823423963
+    second: cab_characters_walk_18
+  - first:
+      213: -8792262930136983372
+    second: cab_characters_walk_19
+  - first:
+      213: 2181054532201224816
+    second: cab_characters_walk_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cab_characters_walk_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1764
+        width: 147
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5141d9de3def2bb41be1cc3f8aa46285
+      internalID: -802957681777597681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1766
+        width: 133
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb254343c04e7c4f956145cc5cde332
+      internalID: 5912458989500771098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1767
+        width: 117
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b121a85a4efc94d81664124cfd912d
+      internalID: 8732883349011722728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1767
+        width: 103
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa501bb3f4a58458f7de36e3ddf129
+      internalID: -8979695422267997359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1482
+        width: 97
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef91cd153bbcf9e46932fcdcfa5a0d65
+      internalID: -8027268247369621697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1482
+        width: 93
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd67a89c0102f7c49abe89a498d6c708
+      internalID: 2507491523373284743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1482
+        width: 88
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fedab7c3ce6fb541a63c9b4d16d00bb
+      internalID: 3784487149179389271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1482
+        width: 106
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4430e784507edec4892040b338529407
+      internalID: 1995669377278170143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1197
+        width: 125
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008cebd3a8c9fe749b5a8d2ab1a93250
+      internalID: 1552674106728852883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1197
+        width: 144
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef083f610e51ed41a737df917f0e113
+      internalID: -4751634595205511626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1196
+        width: 162
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe69b72e900b8a46aaca0e476c14f36
+      internalID: 2182164909360145797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1196
+        width: 145
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd51546fdf51e948a2fd0f3983ab991
+      internalID: 4306500505436800563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 910
+        width: 126
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a6397dc8094c3488023004cc1709d2
+      internalID: 7005467622106198374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 910
+        width: 112
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d844b69815de408a95202e4e95947
+      internalID: 6869614274196910419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 910
+        width: 96
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaf8e521bfd18e46addd1fe1af9afcc
+      internalID: -1472410595346010925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 910
+        width: 88
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd9d542d902bba409c5a006b413274e
+      internalID: 7543935596742508949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 625
+        width: 87
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6415278edcbf83c4a9119a2153b1383d
+      internalID: 5881190504398804109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 624
+        width: 99
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c202ba566f72c846802850325d09de1
+      internalID: 493575005267623995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 624
+        width: 111
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cbec4311873964caf20f5ebefe1c09
+      internalID: 6294177255823423963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_19
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 624
+        width: 123
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0bfbb30266a2f43ad48190b6e796af
+      internalID: -8792262930136983372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_walk_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 339
+        width: 135
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03de520a56d515d4ea0137cbc56df7c3
+      internalID: 2181054532201224816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 97d5e5aa2ea6e5742be516324d3171ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

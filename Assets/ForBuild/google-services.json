@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834856431834",
+    "firebase_url": "https://attackwagonanalytics.firebaseio.com",
+    "project_id": "attackwagonanalytics",
+    "storage_bucket": "attackwagonanalytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834856431834:android:fe354141c8be827484b5e3",
+        "android_client_info": {
+          "package_name": "com.ZombieHuner.Azbuka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834856431834-qkla0p28l2a9c6hsbg1o7emamlgblp7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldhxmtgLOWlUSHJMNIEynCqT9hLMXb5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834856431834-qkla0p28l2a9c6hsbg1o7emamlgblp7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

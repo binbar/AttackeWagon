@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 5c7424776efda884fae7bd5880f1ca84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2701282787858836163
+    second: balloon bursts_0
+  - first:
+      213: -1681774405918201306
+    second: balloon bursts_1
+  - first:
+      213: -8139376054007170642
+    second: balloon bursts_2
+  - first:
+      213: -547081797872432074
+    second: balloon bursts_3
+  - first:
+      213: -8318047142104200189
+    second: balloon bursts_4
+  - first:
+      213: 173324462999794747
+    second: balloon bursts_5
+  - first:
+      213: 3304707474924283449
+    second: balloon bursts_6
+  - first:
+      213: -8881578451802400757
+    second: balloon bursts_7
+  - first:
+      213: -2255419826108881734
+    second: balloon bursts_8
+  - first:
+      213: -823443742058782184
+    second: balloon bursts_9
+  - first:
+      213: -8406163864619113744
+    second: balloon bursts_10
+  - first:
+      213: 2008726939128040882
+    second: balloon bursts_11
+  - first:
+      213: 6540457885541065593
+    second: balloon bursts_12
+  - first:
+      213: -8159035282422117944
+    second: balloon bursts_13
+  - first:
+      213: -7214135910879491235
+    second: balloon bursts_14
+  - first:
+      213: -6071571484826042079
+    second: balloon bursts_15
+  - first:
+      213: -5798072349012526287
+    second: balloon bursts_16
+  - first:
+      213: 343134468506811622
+    second: balloon bursts_17
+  - first:
+      213: 4664008329404002169
+    second: balloon bursts_18
+  - first:
+      213: -7879600860677515808
+    second: balloon bursts_19
+  - first:
+      213: 4124730637634237419
+    second: balloon bursts_20
+  - first:
+      213: -8340625893633928383
+    second: balloon bursts_21
+  - first:
+      213: -3929478815213015865
+    second: balloon bursts_22
+  - first:
+      213: -2717985853941734471
+    second: balloon bursts_23
+  - first:
+      213: -186939987646844449
+    second: balloon bursts_24
+  - first:
+      213: 2452860914967995357
+    second: balloon bursts_25
+  - first:
+      213: 2961126973513318521
+    second: balloon bursts_26
+  - first:
+      213: -4395836573894915303
+    second: balloon bursts_27
+  - first:
+      213: -5992884682144964931
+    second: balloon bursts_28
+  - first:
+      213: -2563842722097750748
+    second: balloon bursts_29
+  - first:
+      213: -5255566295485655455
+    second: balloon bursts_30
+  - first:
+      213: -6570936381077003601
+    second: balloon bursts_31
+  - first:
+      213: 6804898443512693815
+    second: balloon bursts_32
+  - first:
+      213: -1003286877350349921
+    second: balloon bursts_33
+  - first:
+      213: -8387786887690989235
+    second: balloon bursts_34
+  - first:
+      213: -5595358105689332166
+    second: balloon bursts_35
+  - first:
+      213: -3110688135045371737
+    second: balloon bursts_36
+  - first:
+      213: 8858969119714558299
+    second: balloon bursts_37
+  - first:
+      213: -7980942378141266508
+    second: balloon bursts_38
+  - first:
+      213: -8721755078852884669
+    second: balloon bursts_39
+  - first:
+      213: 335647618946600741
+    second: balloon bursts_40
+  - first:
+      213: 7798579833741431692
+    second: balloon bursts_41
+  - first:
+      213: 3177492115473202109
+    second: balloon bursts_42
+  - first:
+      213: -7857442925641415949
+    second: balloon bursts_43
+  - first:
+      213: -1602948847537707254
+    second: balloon bursts_44
+  - first:
+      213: 1068783546466482136
+    second: balloon bursts_45
+  - first:
+      213: 3357388808199413342
+    second: balloon bursts_46
+  - first:
+      213: -5017930856872536777
+    second: balloon bursts_47
+  - first:
+      213: 118453066556109586
+    second: balloon bursts_48
+  - first:
+      213: -2200438074459247146
+    second: balloon bursts_49
+  - first:
+      213: -7806235696790464357
+    second: balloon bursts_50
+  - first:
+      213: 955127749366763387
+    second: balloon bursts_51
+  - first:
+      213: 5005329682011500376
+    second: balloon bursts_52
+  - first:
+      213: 3079310972847382493
+    second: balloon bursts_53
+  - first:
+      213: -2333526653365862823
+    second: balloon bursts_54
+  - first:
+      213: -4435596108719652575
+    second: balloon bursts_55
+  - first:
+      213: -5121723538667438086
+    second: balloon bursts_56
+  - first:
+      213: -1014105346248643403
+    second: balloon bursts_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

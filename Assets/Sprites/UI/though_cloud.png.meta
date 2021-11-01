@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: ff98aeaede074944f9b200197bd717e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9033284580199164942
+    second: though_cloud_0
+  - first:
+      213: 2867553631367831522
+    second: though_cloud_1
+  - first:
+      213: 1231417922038494550
+    second: though_cloud_2
+  - first:
+      213: -53415585665701977
+    second: though_cloud_3
+  - first:
+      213: -8045243514000925405
+    second: though_cloud_4
+  - first:
+      213: 6243698514500439521
+    second: though_cloud_5
+  - first:
+      213: 5102368196053636817
+    second: though_cloud_6
+  - first:
+      213: 683324254388662753
+    second: though_cloud_7
+  - first:
+      213: 7459767846391891755
+    second: though_cloud_8
+  - first:
+      213: 595892179680578076
+    second: though_cloud_9
+  - first:
+      213: -6697563465152957722
+    second: though_cloud_10
+  - first:
+      213: 8353629273778764630
+    second: though_cloud_11
+  - first:
+      213: -5922246758874475133
+    second: though_cloud_12
+  - first:
+      213: 3204128355114895071
+    second: though_cloud_13
+  - first:
+      213: 2831618854716981395
+    second: though_cloud_14
+  - first:
+      213: 3209666673623068622
+    second: though_cloud_15
+  - first:
+      213: 5346974336520951700
+    second: though_cloud_16
+  - first:
+      213: -769217294314215446
+    second: though_cloud_17
+  - first:
+      213: -5729518397179576945
+    second: though_cloud_18
+  - first:
+      213: -8766914429386622132
+    second: though_cloud_19
+  - first:
+      213: 3094366432014221434
+    second: though_cloud_20
+  - first:
+      213: 2082437607943598995
+    second: though_cloud_21
+  - first:
+      213: -6612370738333323463
+    second: though_cloud_22
+  - first:
+      213: 2905991193889830744
+    second: though_cloud_23
+  - first:
+      213: -4297240493509164218
+    second: though_cloud_24
+  - first:
+      213: -2431200022327603022
+    second: though_cloud_25
+  - first:
+      213: -547613064403806080
+    second: though_cloud_26
+  - first:
+      213: -7405567141735073185
+    second: though_cloud_27
+  - first:
+      213: 4577994341235267952
+    second: though_cloud_28
+  - first:
+      213: -6913342581934099294
+    second: though_cloud_29
+  - first:
+      213: 2700873948281568193
+    second: though_cloud_30
+  - first:
+      213: -5113209408744851228
+    second: though_cloud_31
+  - first:
+      213: -3795657128953389598
+    second: though_cloud_32
+  - first:
+      213: 5741326695381103448
+    second: though_cloud_33
+  - first:
+      213: -535712462376466338
+    second: though_cloud_34
+  - first:
+      213: 6401109538024969896
+    second: though_cloud_35
+  - first:
+      213: -3210242106294270927
+    second: though_cloud_36
+  - first:
+      213: -3024755331375742743
+    second: though_cloud_37
+  - first:
+      213: 2765913704026060263
+    second: though_cloud_38
+  - first:
+      213: -6318467106932819499
+    second: though_cloud_39
+  - first:
+      213: -1057020470966161436
+    second: though_cloud_40
+  - first:
+      213: 2231727452577480169
+    second: though_cloud_41
+  - first:
+      213: 1048663171280149586
+    second: though_cloud_42
+  - first:
+      213: -184779202447104634
+    second: though_cloud_43
+  - first:
+      213: 8579545807772135123
+    second: though_cloud_44
+  - first:
+      213: 972476106338231417
+    second: though_cloud_45
+  - first:
+      213: 6596706432860138610
+    second: though_cloud_46
+  - first:
+      213: -4839515224847689512
+    second: though_cloud_47
+  - first:
+      213: -7733420373646164024
+    second: though_cloud_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: though_cloud_0
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1850
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f31732e88353a280800000000000000
+      internalID: -9033284580199164942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1851
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef9f04b5d89bc720800000000000000
+      internalID: 2867553631367831522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_2
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1871
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65577256310e61110800000000000000
+      internalID: 1231417922038494550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_3
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1851
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72deececa324ff0800000000000000
+      internalID: -53415585665701977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_4
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1852
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d957846ad895090800000000000000
+      internalID: -8045243514000925405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_5
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1853
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edce69e7b216a650800000000000000
+      internalID: 6243698514500439521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_6
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1853
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6170f37d04fc640800000000000000
+      internalID: 5102368196053636817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_7
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1854
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1be39f9c7ab7900800000000000000
+      internalID: 683324254388662753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1655
+        width: 120
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27c11f255b668760800000000000000
+      internalID: 7459767846391891755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1855
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a4b4eb7c8054800800000000000000
+      internalID: 595892179680578076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1656
+        width: 151
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e27cee73897d03a0800000000000000
+      internalID: -6697563465152957722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1656
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6416543c9577c20800000000000000
+      internalID: 3204128355114895071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1765
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf66b885d60b8c20800000000000000
+      internalID: 3209666673623068622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_16
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1770
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497167f54d4443a40800000000000000
+      internalID: 5346974336520951700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_17
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1769
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7605142f03355f0800000000000000
+      internalID: -769217294314215446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1740
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dbb02cf59ac70b0800000000000000
+      internalID: -5729518397179576945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_19
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1656
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf92c86c9a55680800000000000000
+      internalID: -8766914429386622132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_20
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1757
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70c91110e561fa20800000000000000
+      internalID: 3094366432014221434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_21
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1749
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3937460a8fd46ec10800000000000000
+      internalID: 2082437607943598995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_22
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1656
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f647ae8d32c34a0800000000000000
+      internalID: -6612370738333323463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_23
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1656
+        width: 113
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85777302897245820800000000000000
+      internalID: 2905991193889830744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_24
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1656
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64346f5f9822d54c0800000000000000
+      internalID: -4297240493509164218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_25
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1657
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0dd33f574a24ed0800000000000000
+      internalID: -2431200022327603022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_26
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1657
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08819ddb1dc7668f0800000000000000
+      internalID: -547613064403806080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1459
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a7394cbe32a3990800000000000000
+      internalID: -7405567141735073185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_28
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1459
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079931d199d488f30800000000000000
+      internalID: 4577994341235267952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_29
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1459
+        width: 118
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47c39dc8fde00a0800000000000000
+      internalID: -6913342581934099294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_30
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1459
+        width: 118
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbfd6ecb8e6b7520800000000000000
+      internalID: 2700873948281568193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1458
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8f399322b3a09b0800000000000000
+      internalID: -5113209408744851228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_32
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1456
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eddd8393fd135bc0800000000000000
+      internalID: -3795657128953389598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_33
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1456
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85378a9e53a4daf40800000000000000
+      internalID: 5741326695381103448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_34
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1455
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e580d429a54c098f0800000000000000
+      internalID: -535712462376466338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_35
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1455
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6d756d53f45d850800000000000000
+      internalID: 6401109538024969896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1255
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134045b10dde273d0800000000000000
+      internalID: -3210242106294270927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1254
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e041ec4d09e506d0800000000000000
+      internalID: -3024755331375742743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_38
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1253
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5bbdffbdf726620800000000000000
+      internalID: 2765913704026060263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_39
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1256
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9774694ab4058a0800000000000000
+      internalID: -6318467106932819499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_40
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1258
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efeeb36b75b451f0800000000000000
+      internalID: -1057020470966161436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_41
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1271
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed3e5e3b40b8fe10800000000000000
+      internalID: 2231727452577480169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_42
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1284
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c103529999d8e00800000000000000
+      internalID: 1048663171280149586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_43
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1287
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a24c5b488f6df0800000000000000
+      internalID: -184779202447104634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_44
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1290
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de237ea47ba01770800000000000000
+      internalID: 8579545807772135123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_45
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1263
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97468d6cdddee7d00800000000000000
+      internalID: 972476106338231417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1274
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca922cc853c8b50800000000000000
+      internalID: 6596706432860138610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_47
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1261
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8dbd93b8696dcb0800000000000000
+      internalID: -4839515224847689512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: though_cloud_48
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1095
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf3d02c42f5da490800000000000000
+      internalID: -7733420373646164024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

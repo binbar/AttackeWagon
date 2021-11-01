@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 2ca6e58f279308248abf6805fed63280
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7726640787459682052
+    second: cabman_swimming_0
+  - first:
+      213: -3771108473784186873
+    second: cabman_swimming_1
+  - first:
+      213: -7818956067081431705
+    second: cabman_swimming_2
+  - first:
+      213: -3851967156122798744
+    second: cabman_swimming_3
+  - first:
+      213: -1412001671736566740
+    second: cabman_swimming_4
+  - first:
+      213: 7622080176772967801
+    second: cabman_swimming_5
+  - first:
+      213: 8418153821821935597
+    second: cabman_swimming_6
+  - first:
+      213: 5585956157702274775
+    second: cabman_swimming_7
+  - first:
+      213: 7642446728291848839
+    second: cabman_swimming_8
+  - first:
+      213: 4413784255073954479
+    second: cabman_swimming_9
+  - first:
+      213: -9041867230665267115
+    second: cabman_swimming_10
+  - first:
+      213: 6894950196379025165
+    second: cabman_swimming_11
+  - first:
+      213: -6105754707182058839
+    second: cabman_swimming_12
+  - first:
+      213: 947898354880032065
+    second: cabman_swimming_13
+  - first:
+      213: -7413335877059427551
+    second: cabman_swimming_14
+  - first:
+      213: -7527755515276686476
+    second: cabman_swimming_15
+  - first:
+      213: -4478162947807890167
+    second: cabman_swimming_16
+  - first:
+      213: -6728744589189758094
+    second: cabman_swimming_17
+  - first:
+      213: -785934857447557375
+    second: cabman_swimming_18
+  - first:
+      213: -2843333721058444027
+    second: cabman_swimming_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cabman_swimming_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1768
+        width: 128
+        height: 244
+      alignment: 9
+      pivot: {x: 0.26228166, y: 0.4730965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2493dbda8a3b60800000000000000
+      internalID: 7726640787459682052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1772
+        width: 121
+        height: 241
+      alignment: 9
+      pivot: {x: 0.278855, y: 0.46294028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c0a2c2d45aabc0800000000000000
+      internalID: -3771108473784186873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1777
+        width: 115
+        height: 237
+      alignment: 9
+      pivot: {x: 0.30913615, y: 0.4492414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765d93332ec7d7390800000000000000
+      internalID: -7818956067081431705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1782
+        width: 107
+        height: 233
+      alignment: 9
+      pivot: {x: 0.33286464, y: 0.4355804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86534d4b7401b8ac0800000000000000
+      internalID: -3851967156122798744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1497
+        width: 100
+        height: 229
+      alignment: 9
+      pivot: {x: 0.3755497, y: 0.42164633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c52ede5ff876ce0800000000000000
+      internalID: -1412001671736566740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1502
+        width: 92
+        height: 224
+      alignment: 9
+      pivot: {x: 0.40676746, y: 0.40837207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d691a898117c960800000000000000
+      internalID: 7622080176772967801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1497
+        width: 82
+        height: 229
+      alignment: 9
+      pivot: {x: 0.4195579, y: 0.42169428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1b46bc4a43d470800000000000000
+      internalID: 8418153821821935597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_7
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1494
+        width: 76
+        height: 232
+      alignment: 9
+      pivot: {x: 0.3584402, y: 0.42835525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deffbe978d458d40800000000000000
+      internalID: 5585956157702274775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1205
+        width: 77
+        height: 231
+      alignment: 9
+      pivot: {x: 0.35687116, y: 0.42607507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7829ea6decc6f0a60800000000000000
+      internalID: 7642446728291848839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1207
+        width: 99
+        height: 229
+      alignment: 9
+      pivot: {x: 0.47115657, y: 0.42128864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa25ee0569e04d30800000000000000
+      internalID: 4413784255073954479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1208
+        width: 123
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5393592, y: 0.42028162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558a3f9d8a5d48280800000000000000
+      internalID: -9041867230665267115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1203
+        width: 120
+        height: 232
+      alignment: 9
+      pivot: {x: 0.60266113, y: 0.43267086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f7e2f2ca8cfaf50800000000000000
+      internalID: 6894950196379025165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 903
+        width: 136
+        height: 241
+      alignment: 9
+      pivot: {x: 0.6605862, y: 0.45898816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a28eb88170044ba0800000000000000
+      internalID: -6105754707182058839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 896
+        width: 141
+        height: 247
+      alignment: 9
+      pivot: {x: 0.6643677, y: 0.47546807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d2dc5188c972d00800000000000000
+      internalID: 947898354880032065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 891
+        width: 122
+        height: 252
+      alignment: 9
+      pivot: {x: 0.6134573, y: 0.4866832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123c63f1c4a8e1990800000000000000
+      internalID: -7413335877059427551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 890
+        width: 103
+        height: 253
+      alignment: 9
+      pivot: {x: 0.54063874, y: 0.48828968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b02fb1e3a088790800000000000000
+      internalID: -7527755515276686476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 600
+        width: 83
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4295329, y: 0.49007186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9053899768e5ad1c0800000000000000
+      internalID: -4478162947807890167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 598
+        width: 94
+        height: 255
+      alignment: 9
+      pivot: {x: 0.31810874, y: 0.49310088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27343015272be92a0800000000000000
+      internalID: -6728744589189758094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_18
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 598
+        width: 117
+        height: 255
+      alignment: 9
+      pivot: {x: 0.24451883, y: 0.49209797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107bd35496cc715f0800000000000000
+      internalID: -785934857447557375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabman_swimming_19
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 604
+        width: 139
+        height: 248
+      alignment: 9
+      pivot: {x: 0.23527384, y: 0.481954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dfb6a9b037a88d0800000000000000
+      internalID: -2843333721058444027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 1321ad18a019897469559e6a966df7bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8079607194449908379
+    second: Cab_Run_riget_0
+  - first:
+      213: 4018878017102505872
+    second: Cab_Run_riget_1
+  - first:
+      213: 5614589092540163990
+    second: Cab_Run_riget_2
+  - first:
+      213: -9134079160116172078
+    second: Cab_Run_riget_3
+  - first:
+      213: 5468154117616783278
+    second: Cab_Run_riget_4
+  - first:
+      213: -8910805308903255150
+    second: Cab_Run_riget_5
+  - first:
+      213: -2648848374313427947
+    second: Cab_Run_riget_6
+  - first:
+      213: 8863402370414656748
+    second: Cab_Run_riget_7
+  - first:
+      213: 3773563048917999835
+    second: Cab_Run_riget_8
+  - first:
+      213: 3591706596990919050
+    second: Cab_Run_riget_9
+  - first:
+      213: -2129388071198929098
+    second: Cab_Run_riget_10
+  - first:
+      213: -1580856874070395779
+    second: Cab_Run_riget_11
+  - first:
+      213: -730658528652479180
+    second: Cab_Run_riget_12
+  - first:
+      213: -1524534166356590053
+    second: Cab_Run_riget_13
+  - first:
+      213: -6900060551989017955
+    second: Cab_Run_riget_14
+  - first:
+      213: 5149554352467358548
+    second: Cab_Run_riget_15
+  - first:
+      213: -6635381885148700949
+    second: Cab_Run_riget_16
+  - first:
+      213: -3017193605025693620
+    second: Cab_Run_riget_17
+  - first:
+      213: 1915311641887717090
+    second: Cab_Run_riget_18
+  - first:
+      213: -7068988256009185644
+    second: Cab_Run_riget_19
+  - first:
+      213: -2962273814142867204
+    second: Cab_Run_riget_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cab_Run_riget_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1428
+        width: 103
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d6d01400176b841bf7922a804a74c2
+      internalID: -8079607194449908379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1428
+        width: 117
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678fd19ff86eacf41bb611250022fa1c
+      internalID: 4018878017102505872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1427
+        width: 133
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e3d6380adbc94ab924523983d3cda
+      internalID: 5614589092540163990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_3
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1425
+        width: 147
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a451746431cdf4a9fd3c33adb3461b
+      internalID: -9134079160116172078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1143
+        width: 106
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9e371783be43c42b0506037d534ccd
+      internalID: 5468154117616783278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1143
+        width: 88
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4702c8e1ce8b1a64d8c7c556c803ee49
+      internalID: -8910805308903255150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1143
+        width: 93
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf144d682dedad438747ab57b99ec35
+      internalID: -2648848374313427947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_7
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1143
+        width: 97
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4deebdd657aa641a2564cd587f0e78
+      internalID: 8863402370414656748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 857
+        width: 145
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f25f2494e661e14d8422e3155c18b43
+      internalID: 3773563048917999835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 857
+        width: 162
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12a5da37ed1a14e9c3940d334ca15c
+      internalID: 3591706596990919050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 858
+        width: 144
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733431fc9de1e704abfb97017afde7e1
+      internalID: -2129388071198929098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 858
+        width: 125
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24349adf8cb445448a1081816700ffca
+      internalID: -1580856874070395779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 571
+        width: 88
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ca5d8f1f0e7794398efeb8ad27ee93
+      internalID: -730658528652479180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 571
+        width: 96
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7092c14ed1ded454993d160e8e8e9fbe
+      internalID: -1524534166356590053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 571
+        width: 112
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640e7a4a3abb4843857b63b987c22a6
+      internalID: -6900060551989017955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 571
+        width: 126
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e0a25ef5e7df44690d328f7492800b
+      internalID: 5149554352467358548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 285
+        width: 123
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9a5512326aed4bb7e8cee0ce783c2
+      internalID: -6635381885148700949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 285
+        width: 111
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10213bbf875f75e4e9e83d0d005f0559
+      internalID: -3017193605025693620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 285
+        width: 99
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaff47eb3fb6b3468fbe903c6ae8645
+      internalID: 1915311641887717090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_19
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 286
+        width: 87
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae18430994f7f546a2445e7158edbd8
+      internalID: -7068988256009185644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cab_Run_riget_20
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 135
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe790637e398f4db7eb59b1078e47f
+      internalID: -2962273814142867204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a317d93962b2954438b49a5d45912e7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

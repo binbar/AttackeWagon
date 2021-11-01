@@ -1,0 +1,2 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+bread,published,managed_by_android,false,en_US;Bread;1000 breads ,true,10000000,

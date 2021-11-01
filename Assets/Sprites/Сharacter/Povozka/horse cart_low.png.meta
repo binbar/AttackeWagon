@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 94888f134d5795944827856fcece50e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5351273915739393851
+    second: horse cart_low_0
+  - first:
+      213: 7871352352447806069
+    second: horse cart_low_1
+  - first:
+      213: 4030536405812689974
+    second: horse cart_low_2
+  - first:
+      213: -2958975763423861389
+    second: horse cart_low_3
+  - first:
+      213: 3910619078064748070
+    second: horse cart_low_4
+  - first:
+      213: 949801381326950529
+    second: horse cart_low_5
+  - first:
+      213: 7033772371993589763
+    second: horse cart_low_6
+  - first:
+      213: 1964055751885076122
+    second: horse cart_low_7
+  - first:
+      213: 425416295218466894
+    second: horse cart_low_8
+  - first:
+      213: 7766090201561161365
+    second: horse cart_low_9
+  - first:
+      213: -7025059556438838082
+    second: horse cart_low_10
+  - first:
+      213: -903145906199141292
+    second: horse cart_low_11
+  - first:
+      213: 5089773639713192984
+    second: horse cart_low_12
+  - first:
+      213: -9160342441948651865
+    second: horse cart_low_13
+  - first:
+      213: -2009884819951092137
+    second: horse cart_low_14
+  - first:
+      213: 6262057888945031719
+    second: horse cart_low_15
+  - first:
+      213: 5748142009835384466
+    second: horse cart_low_16
+  - first:
+      213: 3935226515605625585
+    second: horse cart_low_17
+  - first:
+      213: 7091837789069180485
+    second: horse cart_low_18
+  - first:
+      213: -3554062141998743275
+    second: horse cart_low_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horse cart_low_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1858
+        width: 887
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d13b392b45fad48a9d1c0e2108138a
+      internalID: -5351273915739393851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_1
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1858
+        width: 886
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a59a38228ca4469d22682809b1068
+      internalID: 7871352352447806069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1667
+        width: 883
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee1f64657317f4e89f0c2176066a1a
+      internalID: 4030536405812689974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1667
+        width: 886
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401e8f346bff0574bb27b7667ec2d8d8
+      internalID: -2958975763423861389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1476
+        width: 883
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265848643c8d1484d968e03db39262e8
+      internalID: 3910619078064748070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_5
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1476
+        width: 883
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9584285f26372f645912d2e6adec068c
+      internalID: 949801381326950529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1284
+        width: 884
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebbecf46ae536d4084e266cb523690a
+      internalID: 7033772371993589763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_7
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1285
+        width: 883
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a5e28671cbfa4ea10c57bbb39ed62
+      internalID: 1964055751885076122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1094
+        width: 884
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa39ee36c52ef5c4b8abc6598bc7503e
+      internalID: 425416295218466894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_9
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1094
+        width: 887
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6276a1d4bf984fd44ac276a560e4943a
+      internalID: 7766090201561161365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 903
+        width: 888
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648d6600ae63244f93faa7815585789
+      internalID: -7025059556438838082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_11
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 903
+        width: 887
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13e67d44653874a8d8cb679471bf89
+      internalID: -903145906199141292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 712
+        width: 888
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974dd88277a27b44a15ae95dfd64e93
+      internalID: 5089773639713192984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_13
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 712
+        width: 887
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4aadb51fdf6e14f91522606549890f
+      internalID: -9160342441948651865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 521
+        width: 888
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae00aa83117be274bb80b177e0fba802
+      internalID: -2009884819951092137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 521
+        width: 886
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a5909d6a5b6424191b7864b01ea8fb
+      internalID: 6262057888945031719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 330
+        width: 887
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0083425b3e79f5b459be3b16246b96c5
+      internalID: 5748142009835384466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_17
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 330
+        width: 886
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d562ead788930a5478690784ad7d0cdd
+      internalID: 3935226515605625585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 139
+        width: 887
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b330785da9462429a2f42f31f8c585
+      internalID: 7091837789069180485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse cart_low_19
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 139
+        width: 886
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d8494b48bea664bac2010908d22d2b
+      internalID: -3554062141998743275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 38fc1107e31802b4ba7714f977c69b7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

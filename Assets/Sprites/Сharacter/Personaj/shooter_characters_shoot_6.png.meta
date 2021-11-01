@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 2059fcb223212ee4ab7a3bcddb126165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4727822985244323551
+    second: shooter_characters_shoot_6_0
+  - first:
+      213: 5215336082069151456
+    second: shooter_characters_shoot_6_1
+  - first:
+      213: 4208276320102659665
+    second: shooter_characters_shoot_6_2
+  - first:
+      213: -7854943838424989646
+    second: shooter_characters_shoot_6_5
+  - first:
+      213: -7859050866719999480
+    second: shooter_characters_shoot_6_11
+  - first:
+      213: -7432443662040922845
+    second: shooter_characters_shoot_6_13
+  - first:
+      213: 3083755046730107302
+    second: shooter_characters_shoot_6_24
+  - first:
+      213: 1340791374495409138
+    second: shooter_characters_shoot_6_25
+  - first:
+      213: -6917497927311234675
+    second: shooter_characters_shoot_6_26
+  - first:
+      213: 8648567808542006589
+    second: shooter_characters_shoot_6_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 842
+        width: 352
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4235837, y: 0.0095157875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a94f695eba63f47a7b6338cf367d63
+      internalID: -4727822985244323551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 841
+        width: 352
+        height: 150
+      alignment: 9
+      pivot: {x: 0.43822357, y: 0.014600016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675abaeb107d2aa4889b6ec68f264d05
+      internalID: 5215336082069151456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 660
+        width: 352
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4257738, y: 0.008854574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7c707caf094a54fa821d087b2bf06e
+      internalID: 4208276320102659665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 660
+        width: 352
+        height: 152
+      alignment: 9
+      pivot: {x: 0.43937215, y: 0.0086930925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9bcf1833a0dd4d80bd1d9039f2926
+      internalID: -7854943838424989646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 478
+        width: 352
+        height: 150
+      alignment: 9
+      pivot: {x: 0.42441204, y: 0.008301188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb239a7b32346ad4d9bc542988037050
+      internalID: -7859050866719999480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 479
+        width: 352
+        height: 150
+      alignment: 9
+      pivot: {x: 0.44187215, y: 0.0082106525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82e28354576574ea8f61a19c4ad0cf
+      internalID: -7432443662040922845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 295
+        width: 352
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4270487, y: 0.015058594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93d14d519fb7f4459cec2834fcecc52
+      internalID: 3083755046730107302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 297
+        width: 352
+        height: 150
+      alignment: 9
+      pivot: {x: 0.44557276, y: 0.0065452065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3242a1d953bc994584ee2c706c33b29
+      internalID: 1340791374495409138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 115
+        width: 352
+        height: 150
+      alignment: 9
+      pivot: {x: 0.42503586, y: 0.008130494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54a3959bc190d047946f4087fd2df47
+      internalID: -6917497927311234675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_shoot_6_27
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 114
+        width: 352
+        height: 150
+      alignment: 9
+      pivot: {x: 0.44165108, y: 0.008340098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ac763091f237a4491767f5ac14a226
+      internalID: 8648567808542006589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec5e7a03b9a2980468b04779901745ea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

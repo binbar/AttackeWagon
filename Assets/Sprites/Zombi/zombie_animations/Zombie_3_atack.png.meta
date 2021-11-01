@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 2251b34259064ce47a9a557deec7720b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5530625475169209921
+    second: Zombie_3_atack_0
+  - first:
+      213: 3670070434654033782
+    second: Zombie_3_atack_1
+  - first:
+      213: -2662312801976328796
+    second: Zombie_3_atack_2
+  - first:
+      213: -826678389837294474
+    second: Zombie_3_atack_3
+  - first:
+      213: 9213738535214744196
+    second: Zombie_3_atack_4
+  - first:
+      213: 8960794415093325470
+    second: Zombie_3_atack_5
+  - first:
+      213: 536241832089360402
+    second: Zombie_3_atack_6
+  - first:
+      213: -7447576034577267405
+    second: Zombie_3_atack_7
+  - first:
+      213: -7808959501324382852
+    second: Zombie_3_atack_8
+  - first:
+      213: -2383779595955598124
+    second: Zombie_3_atack_10
+  - first:
+      213: 3962670970592581510
+    second: Zombie_3_atack_11
+  - first:
+      213: 3899914631203776722
+    second: Zombie_3_atack_13
+  - first:
+      213: 5655059742680316537
+    second: Zombie_3_atack_14
+  - first:
+      213: 5328851952832359783
+    second: Zombie_3_atack_15
+  - first:
+      213: -2135222962515263187
+    second: Zombie_3_atack_16
+  - first:
+      213: -4006096157208847823
+    second: Zombie_3_atack_17
+  - first:
+      213: -2182647818135837599
+    second: Zombie_3_atack_18
+  - first:
+      213: -8422621481080570303
+    second: Zombie_3_atack_19
+  - first:
+      213: -4852730311475705943
+    second: Zombie_3_atack_20
+  - first:
+      213: 7149199908739358740
+    second: Zombie_3_atack_21
+  - first:
+      213: 6806224848549881093
+    second: Zombie_3_atack_22
+  - first:
+      213: 3495898041365183741
+    second: Zombie_3_atack_23
+  - first:
+      213: 6187887285881529173
+    second: Zombie_3_atack_24
+  - first:
+      213: -3050674746647500647
+    second: Zombie_3_atack_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_3_atack_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1837
+        width: 145
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0579a489ae58d247a9f9234e7e1b5e8
+      internalID: 5530625475169209921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1834
+        width: 110
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3f666eb27e394497df5b8192e015b
+      internalID: 3670070434654033782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1834
+        width: 95
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c588d9779487f34b89033a84bd7712a
+      internalID: -2662312801976328796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1834
+        width: 91
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294514850755d4b48b3cc3591305d1cd
+      internalID: -826678389837294474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1617
+        width: 85
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef66194f4ac1eb4b8c9621fc4deb1b6
+      internalID: 9213738535214744196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1617
+        width: 75
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56460c96662e804db68f9e78e53da64
+      internalID: 8960794415093325470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1616
+        width: 74
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7111a70352a134f9697e82e3428d9c
+      internalID: 536241832089360402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1616
+        width: 77
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e834f8d900ac0449958c8d1d3d191f6
+      internalID: -7447576034577267405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1392
+        width: 136
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bcfa866c479fa40b2dfe38111b2d0f
+      internalID: -7808959501324382852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1400
+        width: 149
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0cf1da89874204ca1d71ece063a042
+      internalID: -2383779595955598124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1401
+        width: 162
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8956580d5756a41a58191c5a9853e9
+      internalID: 3962670970592581510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_13
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1402
+        width: 173
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edcc4394970eee4eb503155fbecc77e
+      internalID: 3899914631203776722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1180
+        width: 181
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b47dd7ba1e06e45a4d361434c7f742
+      internalID: 5655059742680316537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1181
+        width: 178
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e76dfa7bd01e14f816cb8738a22315
+      internalID: 5328851952832359783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1180
+        width: 174
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1816c70603531c42a7613e5cb06934f
+      internalID: -2135222962515263187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_17
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1181
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4742972aac6e90643bc16c0a8c5e7130
+      internalID: -4006096157208847823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 960
+        width: 147
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f158c6a072eebfc4e961e059cd413756
+      internalID: -2182647818135837599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 956
+        width: 132
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f935fec26d438dd4bb2c790648b97b0f
+      internalID: -8422621481080570303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 953
+        width: 114
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c31916d6d4694f4080f1a4a706ffd36
+      internalID: -4852730311475705943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_21
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 956
+        width: 103
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c23b31e880a83c43973b00e52748a07
+      internalID: 7149199908739358740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 733
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99c896ecb90e7140afe5a27d2821864
+      internalID: 6806224848549881093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 732
+        width: 117
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14101f12d0f3884ba2cc3c8da5692fd
+      internalID: 3495898041365183741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_24
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 741
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a913143fe8ea68d49913ea4f4d8e382e
+      internalID: 6187887285881529173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_3_atack_25
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 734
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1906b61668978a44c95d3f46cc439a4c
+      internalID: -3050674746647500647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0edf32262891e744fb050409db315b87
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

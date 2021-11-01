@@ -1,0 +1,353 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+[System.Serializable]
+public class Weapon { //Оружие
+    public string name; //Название предмета
+    public int id; //Уникальный ид предмета,нужен для проверки куплен или нет предмет
+    public int damage; //Урон
+    public int clip_size; //Количество патронов в обойме
+    public int attack_speed; //Скорость стельбы
+    public int reload_speed; //Скорость перезарядки
+    public int id_ammo; //Ид боеприпасов для стрельбы
+
+    public Sprite image; //Картинка предмета
+
+    public Weapon (string _name, int _id, int damage_, int clip_size_, int attack_speed_, int reload_speed_, int id_ammo_, Sprite _image) {
+        name = _name;
+        id = _id;
+        damage = damage_;
+        clip_size = clip_size_;
+        attack_speed = attack_speed_;
+        reload_speed = reload_speed_;
+        id_ammo = id_ammo_;
+
+        image = _image;
+    }
+}
+
+[System.Serializable]
+public class ShopItem { //Предмет магазина 
+    public string name; //Название предмета
+    public int id; //Уникальный ид предмета,нужен для проверки куплен или нет предмет
+
+    public string type_buy; //Одноразово покупаемое или многоразово покупаемое
+    public int cost; //Цена
+    public string typecoin; //Тип валюты
+    public int count; //Количество покупаемых предметов
+
+    public string description; //Описание предмета
+    public Sprite image; //Картинка предмета
+
+    public ShopItem (string _name, int _id, string _type_buy, int _cost, string _typecoin, int _count, string _description, Sprite _image) {
+        name = _name;
+        id = _id;
+        type_buy = _type_buy;
+        cost = _cost;
+        typecoin = _typecoin;
+        count = _count;
+        description = _description;
+
+        image = _image;
+    }
+}
+
+public class Container_weapon_upgrade {
+
+    //  public List<Obj_Stats> All_obj = new List<Obj_Stats> (); //Выды улучшений и параметры
+    public Dictionary<string, Obj_Stats> All_obj = new Dictionary<string, Obj_Stats> ();
+
+    public void New_obj_upgrade (Obj_Stats New_upgrade_obj) { //Создание нового обьекта улучшения
+        All_obj.Add (New_upgrade_obj.NameObj, New_upgrade_obj);
+    }
+
+    public void Up_by_name (string name_find_obj) { //Улучшить по имени
+        All_obj[name_find_obj].Level_Up ();
+    }
+
+    public int Get_lvl (string name_find_obj) { //Узнать уровень обьекта
+        return All_obj[name_find_obj].Level_now;
+    }
+
+    public int GetP (string Upgrade_name, string Parametr_name) { //Узнать текущий(в сумме) уровень параметра
+        int Paremetr;
+        Paremetr = All_obj[Upgrade_name].GetParemetr_now (Parametr_name);
+        return Paremetr;
+    }
+
+    public int GetP_next (string name_find_obj, string name_param) { //Узнать следуйщий уровень параметра
+        return All_obj[name_find_obj].GetParametr_next_upgrade (name_param);
+    }
+
+    public Container_weapon_upgrade () { //Создание обьекта
+
+        //PlayerPrefs.DeleteAll (); //Нужно для теста
+        Debug.Log ("Container_load:WEAPON");
+
+        Obj_Stats Weapon_0 = new Obj_Stats ("Weapon_0", 10);
+        New_obj_upgrade (Weapon_0); //Добавление в словарь 
+        Weapon_0.SetParemetr ("Damage", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+        Weapon_0.SetParemetr ("Price_Bread", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+
+        Obj_Stats Weapon_1 = new Obj_Stats ("Weapon_1", 10);
+        New_obj_upgrade (Weapon_1); //Добавление в словарь 
+        Weapon_1.SetParemetr ("Damage", new int[] { 2000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+        Weapon_1.SetParemetr ("Price_Bread", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+
+        Obj_Stats Weapon_2 = new Obj_Stats ("Weapon_2", 10);
+        New_obj_upgrade (Weapon_2); //Добавление в словарь 
+        Weapon_2.SetParemetr ("Damage", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+        Weapon_2.SetParemetr ("Price_Bread", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+
+        Obj_Stats Weapon_3 = new Obj_Stats ("Weapon_3", 10);
+        New_obj_upgrade (Weapon_3); //Добавление в словарь 
+        Weapon_3.SetParemetr ("Damage", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+        Weapon_3.SetParemetr ("Price_Bread", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+
+        Obj_Stats Weapon_4 = new Obj_Stats ("Weapon_4", 10);
+        New_obj_upgrade (Weapon_4); //Добавление в словарь 
+        Weapon_4.SetParemetr ("Damage", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+        Weapon_4.SetParemetr ("Price_Bread", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+
+        Obj_Stats Weapon_5 = new Obj_Stats ("Weapon_5", 10);
+        New_obj_upgrade (Weapon_5); //Добавление в словарь 
+        Weapon_5.SetParemetr ("Damage", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+        Weapon_5.SetParemetr ("Price_Bread", new int[] { 1000, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+
+        Debug.Log ("Container_complete_load:WEAPON");
+    }
+}
+
+public class Shop : MonoBehaviour {
+    public List<ShopItem> shop_items = new List<ShopItem> (); //Все магазинные предметы
+    public GameObject[] Weapon_buy; //Ячейки продажи оружия
+
+    public List<Weapon> all_weapons = new List<Weapon> (); //Все оружие
+    public Sprite[] all_weapons_image; //Все картинки оружий
+
+    public string[] Slots; //Слоты инвентаря
+    public GameObject[] Slot_imgs; //Картинки слотов инвентаря(для указания)
+
+    public Sprite EMPTY; //Пустой слот инвентаря
+    public Sprite NOT_BUY; //Заблокированный слот инвентаря
+
+    public Container_weapon_upgrade Container_in_weapon; //Улучшение оружия
+
+    void Slots_install () { //Загрузка инвентаря и отрисовка
+        Slots = new string[4]; //Установка размера инвентаря
+
+        PlayerPrefs.SetInt ("Slots_weapon", 4); // Устаноливаем сколько слотов в начале игры открыто.
+
+        for (int i = 0; i < Slots.Length; i++) { //Делаем все слоты не куплеными
+            Slots[i] = "NOT_BUY";
+        }
+        int Slots_weapon_count = PlayerPrefs.GetInt ("Slots_weapon"); //Загружаем количество купленых слотов оружия
+
+        for (int i = 0; i < Slots.Length && i < Slots_weapon_count; i++) { //Делаем все слоты не куплеными
+            Slots[i] = "EMPTY";
+        }
+
+        for (int i = 0; i < Slots.Length; i++) { //Загрузка содержимого(предметов) инвентаря
+
+            // PlayerPrefs.SetString ("SW_2", "15");
+
+            string SW_check = PlayerPrefs.GetString ("SW_" + i);
+
+            if (SW_check != "") { //Если слот сохраненного инвентаря не пустой
+
+                if (Slots[i] == "EMPTY") { //Если слот пустой
+                    Slots[i] = "" + SW_check; //Установить в слот инвентаря
+                    Debug.Log ("Установлено в " + i + " инвентарь ID:" + SW_check);
+                }
+            }
+
+        }
+                for (int i = 0; i < Slots.Length; i++) { //Установка картинок
+                    if (Slots[i] != "EMPTY" && Slots[i] != "NOT_BUY") { //Если слот не "пустой" или не "не куплен" то устанавливаем картинку
+                        Debug.Log ("SLOT SET:" + Int32.Parse (Slots[i]));
+                        Slot_imgs[i].GetComponent<Image> ().sprite = Get_weapon_by_id (Int32.Parse (Slots[i])).image; //Взять картинку из предмета 
+                    } else if (Slots[i] == "EMPTY") { //Если нет предмета то сделать пустую картинку
+                        Slot_imgs[i].GetComponent<Image> ().sprite = EMPTY; //Картинка пустого слота
+                    } else if (Slots[i] == "NOT_BUY") {
+                        Slot_imgs[i].GetComponent<Image> ().sprite = NOT_BUY; //Картинка не купленного слота
+                    }
+                }
+
+
+        Debug.Log ("Slot DB/////////////////////////////");
+        foreach (var item in Slots) {
+            Debug.Log ("Slot DB=" + item);
+        }
+        Debug.Log ("Slot DB/////////////////////////////");
+        Weapon_load ();
+    }
+    public void Weapon_load () {
+        for (int i = 0; i < 6; i++) {
+            if (Check_buy (i) == true) {
+                Weapon_buy[i].gameObject.transform.GetChild (0).transform.gameObject.SetActive (true); //Включить купленый предмет
+                Weapon_buy[i].gameObject.transform.GetChild (1).transform.gameObject.SetActive (false); //Выключить не купленый предмет 
+            }
+        }
+    }
+
+    public void ShopItem_install () { //Список предметов магазина
+        shop_items.Add (new ShopItem ("Двухстволка", 0, "one", 25, "Bread", 1, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Дробовик", 1, "one", 25, "Bread", 1, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Револьвер", 2, "one", 25, "Bread", 1, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Sniper", 3, "one", 25, "Bread", 1, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Ak-47", 4, "one", 25, "Bread", 1, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Базука", 5, "one", 25, "Bread", 1, "ОПИСАНИЕ", null));
+
+        shop_items.Add (new ShopItem ("Двухстволка_боеприпасы", 6, "many", 25, "Bread", 5, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Дробовик_боеприпасы", 7, "many", 25, "Bread", 5, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Револьвер_боеприпасы", 8, "many", 25, "Bread", 10, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Sniper_боеприпасы", 9, "many", 25, "Bread", 5, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Ak-47_боеприпасы", 10, "many", 25, "Bread", 5, "ОПИСАНИЕ", null));
+        shop_items.Add (new ShopItem ("Базука_боеприпасы", 11, "many", 25, "Bread", 5, "ОПИСАНИЕ", null));
+    }
+
+    public void Weapon_install () { //Список всего оружия в игре
+
+        all_weapons.Clear ();
+        all_weapons.Add (new Weapon ("Двухстволка", 0, 100, 30, 5, 2, 6, all_weapons_image[0]));
+        all_weapons.Add (new Weapon ("Дробовик", 1, 100, 30, 5, 2, 7, all_weapons_image[1]));
+        all_weapons.Add (new Weapon ("Револьвер", 2, 100, 30, 5, 2, 8, all_weapons_image[2]));
+        all_weapons.Add (new Weapon ("Sniper", 3, 100, 30, 5, 2, 9, all_weapons_image[3]));
+        all_weapons.Add (new Weapon ("Ak-47", 4, 100, 30, 5, 2, 10, all_weapons_image[4]));
+        all_weapons.Add (new Weapon ("Базука", 5, 100, 30, 5, 2, 11, all_weapons_image[5]));
+
+    }
+
+    public Weapon Get_weapon_by_id (int id_weapon) { //Получить информации об оружии по его ид
+        foreach (var some_weapon in all_weapons) {
+            if (some_weapon.id == id_weapon) {
+                return some_weapon;
+            }
+        }
+
+        Debug.Log ("ERROR NULL:" + id_weapon);
+        return null;
+    }
+    public bool Check_buy (int id_some_item) { //Проверка куплен ли предмет, true куплен ,false не куплен
+        if (PlayerPrefs.GetInt ("" + id_some_item) > 0) {
+            return true; //Куплен
+        }
+        return false; //Не куплен
+    }
+
+    public void Equip_weapon (int id_weapon) { //Одеть оружие
+        if (Check_buy (id_weapon) == true) { //Проверка куплен ли предмет, true куплен ,false не куплен 
+            Debug.Log ("Куплено:" + id_weapon);
+            if (Check_inventory_weapon (id_weapon) == false) { //Проверка одето ли оружие в слот инвентаря
+                Debug.Log ("Не одето:" + id_weapon);
+
+                for (int i = 0; i < PlayerPrefs.GetInt ("Slots_weapon"); i++) {
+                    if (Slots[i] == "EMPTY") {
+                        Debug.Log ("Оружие одето:" + id_weapon);
+
+                        PlayerPrefs.SetString ("SW_" + i, ("" + id_weapon)); //Одеваем оружие
+                        Slots_install (); //Прогрузка и отрисовка инвентаря
+                        break;
+                    }
+                }
+                Debug.Log ("Все слоты заняты");
+            }
+        }
+
+    }
+    public void Clear_weapon (int id_slot) { //Снять оружие
+        string some_slot = PlayerPrefs.GetString ("SW_" + id_slot);
+        if (some_slot != "NOT_BUY" && some_slot != "EMPTY") {
+            PlayerPrefs.SetString ("SW_" + id_slot, "EMPTY"); //Очищаем слот справа
+            Slots_install (); //Прогрузка и отрисовка инвентаря
+        }
+
+    }
+
+    public bool Check_inventory_weapon (int id_weapon) { //Проверка одето ли оружие в слот инвентаря
+
+        for (int i = 0; i < Slots.Length; i++) {
+            if (Slots[i] == ("" + id_weapon)) { //Проверка есть ли в инвентаре предмет
+                return true; //Предмет есть в инвентаре
+            }
+        }
+        return false; //Предмета нет в инвентаре
+
+    }
+
+    public void CheatMoney () {
+        PlayerPrefs.SetInt ("carrot", 25000);
+        PlayerPrefs.SetInt ("Bread", 10000);
+    }
+
+    public void Balance () {
+        //   Debug.Log("carrot:" + PlayerPrefs.GetInt("carrot") + "# bread:" + PlayerPrefs.GetInt("Bread"));
+    }
+
+    void Start () {
+
+        //  PlayerPrefs.DeleteAll ();
+        //CheatMoney ();
+
+        Container_weapon_upgrade Upg_waepon = new Container_weapon_upgrade ();
+        Container_in_weapon = Upg_waepon;
+        Weapon_install ();
+
+
+        ShopItem_install ();
+
+        Slots_install ();
+
+
+        //  BuyItem(2);
+        //    Balance ();
+
+        //   BuyItem (8);
+        //  Balance ();
+
+    }
+
+    public void BuyItem (int id_selected) { //Покупка предмета
+
+        if ((shop_items[id_selected].type_buy == "one" && PlayerPrefs.GetInt ("" + shop_items[id_selected].id) < 1) || shop_items[id_selected].type_buy == "many") {
+            if (PlayerPrefs.GetInt ("" + shop_items[id_selected].typecoin) >= shop_items[id_selected].cost) { //Проверка хватает ли средств на покупку
+                PlayerPrefs.SetInt ("" + shop_items[id_selected].id, (PlayerPrefs.GetInt ("" + shop_items[id_selected].id) + shop_items[id_selected].count)); //Зачисление покупки,добавление count
+                PlayerPrefs.SetInt ("" + shop_items[id_selected].typecoin, ((PlayerPrefs.GetInt ("" + shop_items[id_selected].typecoin)) - shop_items[id_selected].cost)); //Снятие средств(валюты указанной в предмете) за покупку
+                Debug.Log ("Предмет" + shop_items[id_selected].name + " с ид " + shop_items[id_selected].id + " успешно куплен,сейчас количество " + PlayerPrefs.GetInt ("" + shop_items[id_selected].id));
+                Slots_install (); //Перезагрузить инвентарь
+            } else {
+                Debug.Log ("Не хватает средств на покупку");
+            }
+        } else if (shop_items[id_selected].type_buy == "one") {
+            Debug.Log ("Этот предмет может быть куплен только один раз");
+        }
+    }
+
+    public void Lvl_up_weapon (int id_selected) { //Улучшить оружие по ид
+        Debug.Log ("Lvl_up_weapon();");
+        bool Have_Bread = false;
+
+        if (PlayerPrefs.GetInt ("Bread") >= Container_in_weapon.GetP_next (("Weapon_" + id_selected), "Price_Bread")) {
+
+            Have_Bread = true; //Хватавет хлеба
+            Debug.Log ("Хватавет хлеба");
+        }
+
+        if (Have_Bread == true) { //Если хватает  опыта и хлеба то отнимаем деньги
+
+            PlayerPrefs.SetInt ("Bread", ((PlayerPrefs.GetInt ("Bread")) - Container_in_weapon.GetP_next (("Weapon_" + id_selected), "Price_Bread"))); //Снатие средств (хлеб)
+
+            Container_in_weapon.Up_by_name ("Weapon_" + id_selected); //Улучшить по имени
+            Weapon_install ();
+            Debug.Log ("Weapon_" + id_selected + " Улучшено");
+            // Debug.Log ("" + Container_in_weapon.Get_lvl (Name)); //Тест
+            // Draw_text ();
+
+        }
+
+    }
+
+}

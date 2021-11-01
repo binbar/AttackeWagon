@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 9f0951c652bfea24aabe7bb7b85ea06f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2904551400210503755
+    second: horse_character_run_0
+  - first:
+      213: 1196225566651682149
+    second: horse_character_run_1
+  - first:
+      213: -5257763224245310569
+    second: horse_character_run_2
+  - first:
+      213: 7821376286638475966
+    second: horse_character_run_3
+  - first:
+      213: -5186720798117522843
+    second: horse_character_run_4
+  - first:
+      213: 2787656737883836167
+    second: horse_character_run_5
+  - first:
+      213: -1530698396772605824
+    second: horse_character_run_6
+  - first:
+      213: -7814551809483352644
+    second: horse_character_run_7
+  - first:
+      213: 2747164645095325740
+    second: horse_character_run_8
+  - first:
+      213: 4115332105330719962
+    second: horse_character_run_9
+  - first:
+      213: -6414225808001335824
+    second: horse_character_run_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horse_character_run_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1724
+        width: 370
+        height: 285
+      alignment: 9
+      pivot: {x: 0.58783245, y: 0.4963092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae81b230a9e754cb8c84330f522c7a
+      internalID: 2904551400210503755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1724
+        width: 360
+        height: 291
+      alignment: 9
+      pivot: {x: 0.57631564, y: 0.4803605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c7af3603f98a4e861693d9f040249
+      internalID: 1196225566651682149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1397
+        width: 374
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5931837, y: 0.46658158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a275c88ae19012244bb78f8680ff9642
+      internalID: -5257763224245310569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1397
+        width: 371
+        height: 287
+      alignment: 9
+      pivot: {x: 0.5936493, y: 0.47487435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810e56ecd182e9b4880000edfdce0bb9
+      internalID: 7821376286638475966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1070
+        width: 377
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5973967, y: 0.48189655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c452822ba8e51f14e8cd2dee4001bdb5
+      internalID: -5186720798117522843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1068
+        width: 381
+        height: 275
+      alignment: 9
+      pivot: {x: 0.5925032, y: 0.50104225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e75638314c5b44d86a08112104c1f9
+      internalID: 2787656737883836167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 741
+        width: 382
+        height: 269
+      alignment: 9
+      pivot: {x: 0.58490014, y: 0.51537406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e314a07a7191e44a887af5cc22a5d49
+      internalID: -1530698396772605824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 741
+        width: 380
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5742449, y: 0.5188949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6834333c42046b442a726f6bc62cb22b
+      internalID: -7814551809483352644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 416
+        width: 383
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5697563, y: 0.5116657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da73a0c3e4dce4e48a51ff23c5d19efb
+      internalID: 2747164645095325740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 416
+        width: 375
+        height: 280
+      alignment: 9
+      pivot: {x: 0.57531494, y: 0.50214624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c905ad45aa194492bccae9ae56ec7
+      internalID: 4115332105330719962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_run_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 89
+        width: 370
+        height: 285
+      alignment: 9
+      pivot: {x: 0.58657604, y: 0.49363822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d735adb874a32e4cb3f0a539957f924
+      internalID: -6414225808001335824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4bc272958ff4fb044bbfa19e5c42f28d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

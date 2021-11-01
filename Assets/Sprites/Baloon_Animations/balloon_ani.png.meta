@@ -1,0 +1,838 @@
+fileFormatVersion: 2
+guid: e6e929133c9351e4abff44952cdd1d63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1520631279506961251
+    second: balloon_ani_0
+  - first:
+      213: -8648160102259280855
+    second: balloon_ani_1
+  - first:
+      213: 409220268221876230
+    second: balloon_ani_2
+  - first:
+      213: 4553526187376246315
+    second: balloon_ani_3
+  - first:
+      213: -8001287148885505147
+    second: balloon_ani_4
+  - first:
+      213: -1604589750811945292
+    second: balloon_ani_5
+  - first:
+      213: -5098528121639877222
+    second: balloon_ani_6
+  - first:
+      213: -9135774745496582732
+    second: balloon_ani_7
+  - first:
+      213: -8216483519170900345
+    second: balloon_ani_8
+  - first:
+      213: 5800936286280569440
+    second: balloon_ani_9
+  - first:
+      213: -1532414376597039453
+    second: balloon_ani_10
+  - first:
+      213: -72570232793963923
+    second: balloon_ani_11
+  - first:
+      213: 4886633136498803458
+    second: balloon_ani_12
+  - first:
+      213: 8484105939025525378
+    second: balloon_ani_13
+  - first:
+      213: 3989665867944855573
+    second: balloon_ani_14
+  - first:
+      213: -7097816034167597586
+    second: balloon_ani_15
+  - first:
+      213: -3262482173527581165
+    second: balloon_ani_16
+  - first:
+      213: 5770124008706020808
+    second: balloon_ani_17
+  - first:
+      213: -2269703542557103966
+    second: balloon_ani_18
+  - first:
+      213: -8811355312517159251
+    second: balloon_ani_19
+  - first:
+      213: 372959355115960208
+    second: balloon_ani_20
+  - first:
+      213: 2018130357435185946
+    second: balloon_ani_21
+  - first:
+      213: -9168687648490715208
+    second: balloon_ani_22
+  - first:
+      213: 1388373358673832805
+    second: balloon_ani_23
+  - first:
+      213: -921828285078446256
+    second: balloon_ani_24
+  - first:
+      213: 7166091845638210191
+    second: balloon_ani_25
+  - first:
+      213: -4929528654889404505
+    second: balloon_ani_26
+  - first:
+      213: 5746079681049293871
+    second: balloon_ani_27
+  - first:
+      213: 368609835310735946
+    second: balloon_ani_28
+  - first:
+      213: -6528369819119629431
+    second: balloon_ani_29
+  - first:
+      213: -7928180764929824053
+    second: balloon_ani_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balloon_ani_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1877
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3633c51971e5a1510800000000000000
+      internalID: 1520631279506961251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1877
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9243128f4309bf780800000000000000
+      internalID: -8648160102259280855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1877
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60841427aa7dda500800000000000000
+      internalID: 409220268221876230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_3
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1877
+        width: 82
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2efff911ff513f30800000000000000
+      internalID: 4553526187376246315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1877
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b08c01bb7b5f090800000000000000
+      internalID: -8001287148885505147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1591
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b61f948f1a5bb9e0800000000000000
+      internalID: -1604589750811945292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1591
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95c050cfa36e39b0800000000000000
+      internalID: -5098528121639877222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1591
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b501bab545373180800000000000000
+      internalID: -9135774745496582732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_8
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1591
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e87f8a5cf29fd80800000000000000
+      internalID: -8216483519170900345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_9
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1591
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0625d6451d0118050800000000000000
+      internalID: 5800936286280569440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1307
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a65b3a5e35cbbae0800000000000000
+      internalID: -1532414376597039453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1307
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626c0df1cd2efef0800000000000000
+      internalID: -72570232793963923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1307
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2030aa872fec0d340800000000000000
+      internalID: 4886633136498803458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1307
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af56c96699db570800000000000000
+      internalID: 8484105939025525378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_14
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1307
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188a5ff7f32e5730800000000000000
+      internalID: 3989665867944855573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1021
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee55e5a3ced7f7d90800000000000000
+      internalID: -7097816034167597586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1021
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e18d0afb559b2d0800000000000000
+      internalID: -3262482173527581165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1021
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c510e8e639931050800000000000000
+      internalID: 5770124008706020808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1021
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8207847a46080e0800000000000000
+      internalID: -2269703542557103966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1021
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e9af1707c7b580800000000000000
+      internalID: -8811355312517159251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 733
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b3b591ed6d10c10800000000000000
+      internalID: 2018130357435185946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 733
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b70337592742c080800000000000000
+      internalID: -9168687648490715208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 733
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bae5bb63e744310800000000000000
+      internalID: 1388373358673832805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_24
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 733
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fddfb0f020533f0800000000000000
+      internalID: -921828285078446256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_25
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 733
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c617e092137360800000000000000
+      internalID: 7166091845638210191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 444
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7353f5ecbc69bb0800000000000000
+      internalID: -4929528654889404505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 444
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247800a60d2ebf40800000000000000
+      internalID: 5746079681049293871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 444
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42696631b09d1500800000000000000
+      internalID: 368609835310735946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_29
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 444
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4ef00d329665a0800000000000000
+      internalID: -6528369819119629431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloon_ani_30
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 444
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae54f799179f190800000000000000
+      internalID: -7928180764929824053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

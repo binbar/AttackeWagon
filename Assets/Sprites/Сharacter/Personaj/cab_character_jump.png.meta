@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 9115ed2eba91e484c8eb252dbe479f38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6819052436369470798
+    second: cab_character_jump_0
+  - first:
+      213: -5739333737696872687
+    second: cab_character_jump_1
+  - first:
+      213: 6733436646099504347
+    second: cab_character_jump_2
+  - first:
+      213: -4294086347246460531
+    second: cab_character_jump_3
+  - first:
+      213: 2907868401472786045
+    second: cab_character_jump_4
+  - first:
+      213: -517690534819786948
+    second: cab_character_jump_5
+  - first:
+      213: 887836795274135546
+    second: cab_character_jump_6
+  - first:
+      213: 7427324161991269618
+    second: cab_character_jump_7
+  - first:
+      213: -8611669334957747182
+    second: cab_character_jump_8
+  - first:
+      213: 580395082901097090
+    second: cab_character_jump_9
+  - first:
+      213: -4948952511413034373
+    second: cab_character_jump_10
+  - first:
+      213: 2320703877056582070
+    second: cab_character_jump_11
+  - first:
+      213: 3226841436857342684
+    second: cab_character_jump_12
+  - first:
+      213: -1949764398721951161
+    second: cab_character_jump_13
+  - first:
+      213: 5549804559015880585
+    second: cab_character_jump_14
+  - first:
+      213: 6176327306758145588
+    second: cab_character_jump_15
+  - first:
+      213: -8914853643895983783
+    second: cab_character_jump_16
+  - first:
+      213: -7301771469474161821
+    second: cab_character_jump_17
+  - first:
+      213: -5265249614402727211
+    second: cab_character_jump_18
+  - first:
+      213: 2578596223325175938
+    second: cab_character_jump_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cab_character_jump_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1812
+        width: 127
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5003663f8aa976e48acaf2f470a7bdc5
+      internalID: -6819052436369470798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1805
+        width: 127
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6198ea51bb2e0745bf8b9168752cccd
+      internalID: -5739333737696872687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1798
+        width: 126
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740b54b41500b1f45a571f7bd80369de
+      internalID: 6733436646099504347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_3
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1771
+        width: 126
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a076dad91e0f5d43bb920ff775a6a9f
+      internalID: -4294086347246460531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1741
+        width: 125
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379809f17da332479003179a1d5c621
+      internalID: 2907868401472786045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1319
+        width: 108
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09974faec63a56642848023808b5a110
+      internalID: -517690534819786948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1298
+        width: 99
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b37763b4f723794fa5fe3f629569ca0
+      internalID: 887836795274135546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1282
+        width: 101
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e828614b5d1cafd4a91f03b90038d530
+      internalID: 7427324161991269618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_8
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1266
+        width: 107
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800547bd4567e5646ab613f468e31719
+      internalID: -8611669334957747182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1247
+        width: 120
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e5d852f1970de46b3c601ff1e1aa52
+      internalID: 580395082901097090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 846
+        width: 126
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebb5b0b1e0f8404893a9120295c856b
+      internalID: -4948952511413034373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 846
+        width: 131
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121b8bf91e2cff549841b96f3ad0d988
+      internalID: 2320703877056582070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 846
+        width: 136
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd7a80fe8e9f0b429dc8f0b18dfd2da
+      internalID: 3226841436857342684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_13
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 846
+        width: 135
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3ccf28316167548b05d87e39a551c0
+      internalID: -1949764398721951161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_14
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 846
+        width: 135
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4bedfdd836bc441aec529d55437da1
+      internalID: 5549804559015880585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 445
+        width: 135
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef60280a7aa6dda4198390d7d5b5afe7
+      internalID: 6176327306758145588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 445
+        width: 135
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1179f3eb39d02994bae4f747f9e5e17c
+      internalID: -8914853643895983783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 445
+        width: 135
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c0499664c1ae42a293a0737a70c31
+      internalID: -7301771469474161821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 445
+        width: 136
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c244122c99ee843984ab48696666f2
+      internalID: -5265249614402727211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_character_jump_19
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 445
+        width: 135
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991709f83a064b42b228331785a501f
+      internalID: 2578596223325175938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4ee1f6024b1d75848a1a029abfe30605
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

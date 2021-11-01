@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 2cd2141f79035214d9a4875c268fb76f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6539225612945595609
+    second: cab_characters_chop wood_0
+  - first:
+      213: 4536436689542980644
+    second: cab_characters_chop wood_1
+  - first:
+      213: -5213886732178370717
+    second: cab_characters_chop wood_2
+  - first:
+      213: 160985918041689141
+    second: cab_characters_chop wood_3
+  - first:
+      213: 3411363667572127942
+    second: cab_characters_chop wood_4
+  - first:
+      213: -5687270959814504126
+    second: cab_characters_chop wood_5
+  - first:
+      213: 7120685452148442999
+    second: cab_characters_chop wood_6
+  - first:
+      213: -350967445009064939
+    second: cab_characters_chop wood_7
+  - first:
+      213: -4987957136298157741
+    second: cab_characters_chop wood_8
+  - first:
+      213: -355412134819611564
+    second: cab_characters_chop wood_9
+  - first:
+      213: -1043020674255686527
+    second: cab_characters_chop wood_10
+  - first:
+      213: -2654360815257477145
+    second: cab_characters_chop wood_11
+  - first:
+      213: -2681724562238490433
+    second: cab_characters_chop wood_12
+  - first:
+      213: 3543558968249624325
+    second: cab_characters_chop wood_13
+  - first:
+      213: -521305219540925387
+    second: cab_characters_chop wood_14
+  - first:
+      213: -696035788263345233
+    second: cab_characters_chop wood_15
+  - first:
+      213: 200226508113732215
+    second: cab_characters_chop wood_16
+  - first:
+      213: 8459315742713451820
+    second: cab_characters_chop wood_17
+  - first:
+      213: -5824419894555010005
+    second: cab_characters_chop wood_18
+  - first:
+      213: -4594943426977426407
+    second: cab_characters_chop wood_19
+  - first:
+      213: 699964503016399780
+    second: cab_characters_chop wood_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cab_characters_chop wood_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1760
+        width: 125
+        height: 243
+      alignment: 9
+      pivot: {x: 0.6788738, y: 0.039564848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adb7de6bae095a449cbabaad1a64a53
+      internalID: -6539225612945595609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1760
+        width: 121
+        height: 240
+      alignment: 9
+      pivot: {x: 0.66281277, y: 0.035913087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f447ef403e0b2e4cbceb3494dce4ac9
+      internalID: 4536436689542980644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1760
+        width: 117
+        height: 237
+      alignment: 9
+      pivot: {x: 0.67451566, y: 0.0433875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82797f467cc52542bb23a46993ab4a3
+      internalID: -5213886732178370717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1760
+        width: 112
+        height: 233
+      alignment: 9
+      pivot: {x: 0.6622734, y: 0.034248844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db9305ea26d583479ce7695c3f925ab
+      internalID: 160985918041689141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_4
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1760
+        width: 115
+        height: 237
+      alignment: 9
+      pivot: {x: 0.65979534, y: 0.0433875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402962991e1784439c6019c06c1283a
+      internalID: 3411363667572127942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_5
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1760
+        width: 118
+        height: 240
+      alignment: 9
+      pivot: {x: 0.66366214, y: 0.036334228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8aaed19502274cb236543d4a6b013
+      internalID: -5687270959814504126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_6
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1760
+        width: 121
+        height: 243
+      alignment: 9
+      pivot: {x: 0.67718357, y: 0.042057995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6401835252f248addd784a3387100
+      internalID: 7120685452148442999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1467
+        width: 137
+        height: 245
+      alignment: 9
+      pivot: {x: 0.711521, y: 0.03288325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcd1ba7e12072541a29896792b654f7
+      internalID: -350967445009064939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1467
+        width: 142
+        height: 246
+      alignment: 9
+      pivot: {x: 0.69617236, y: 0.036423597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c564fbf7f57cb4095ee0e3f160b0a1
+      internalID: -4987957136298157741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1467
+        width: 143
+        height: 247
+      alignment: 9
+      pivot: {x: 0.6705583, y: 0.03498476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddfd1239af22fa47a756bdcee428e81
+      internalID: -355412134819611564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_10
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1467
+        width: 148
+        height: 247
+      alignment: 9
+      pivot: {x: 0.63939565, y: 0.037933227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7586d483aa6c741bd2d5ec5b6b6708
+      internalID: -1043020674255686527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_11
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1467
+        width: 145
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5037303, y: 0.040219944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c432c7d252323cc4cbe7731f365ee0b2
+      internalID: -2654360815257477145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_12
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1467
+        width: 136
+        height: 251
+      alignment: 9
+      pivot: {x: 0.35255164, y: 0.041324936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b0c35f3d034447982893e4cfedb7f
+      internalID: -2681724562238490433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_13
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1467
+        width: 138
+        height: 254
+      alignment: 9
+      pivot: {x: 0.3446434, y: 0.037773553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4cb8fcec07910469309599e1df7ed2
+      internalID: 3543558968249624325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1174
+        width: 141
+        height: 257
+      alignment: 9
+      pivot: {x: 0.34286812, y: 0.034275632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423998b6a7b11d24f9cc032ca4978ca8
+      internalID: -521305219540925387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1174
+        width: 169
+        height: 233
+      alignment: 9
+      pivot: {x: 0.76683885, y: 0.044311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ef8d19e87ad044a1bc430def702dd
+      internalID: -696035788263345233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1174
+        width: 152
+        height: 217
+      alignment: 9
+      pivot: {x: 0.7437511, y: 0.03922057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc713f4b984a444ab41ae7fa6b8423b
+      internalID: 200226508113732215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1174
+        width: 148
+        height: 207
+      alignment: 9
+      pivot: {x: 0.73695457, y: 0.04423368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f80cde18deabc49a44e65cca71f591
+      internalID: 8459315742713451820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_18
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1170
+        width: 144
+        height: 203
+      alignment: 9
+      pivot: {x: 0.7414729, y: 0.05773445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f963d4b9ba8df4e9abf669db6b13ed
+      internalID: -5824419894555010005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_19
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1175
+        width: 133
+        height: 223
+      alignment: 9
+      pivot: {x: 0.70679444, y: 0.033032883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e016e9439ab3342ae6f26261bdfe19
+      internalID: -4594943426977426407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cab_characters_chop wood_20
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1174
+        width: 120
+        height: 243
+      alignment: 9
+      pivot: {x: 0.6786601, y: 0.033655237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f17745e108942348a92fede82702bc0
+      internalID: 699964503016399780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e860ba96f59e5c141b3b63ad90caee7b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

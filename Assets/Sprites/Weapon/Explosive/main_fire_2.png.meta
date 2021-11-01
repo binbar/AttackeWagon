@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 401dbf80b821c664f918d9969fbe787a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4947561109564864722
+    second: main_fire_2_1
+  - first:
+      213: -8491613340466759680
+    second: main_fire_2_3
+  - first:
+      213: -2187604277572243361
+    second: main_fire_2_6
+  - first:
+      213: -5422558624253030173
+    second: main_fire_2_7
+  - first:
+      213: -5932263457059352624
+    second: main_fire_2_8
+  - first:
+      213: -2739208941606271892
+    second: main_fire_2_9
+  - first:
+      213: 5663881504906121461
+    second: main_fire_2_10
+  - first:
+      213: -7577777238548804383
+    second: main_fire_2_11
+  - first:
+      213: 8773323060290621014
+    second: main_fire_2_12
+  - first:
+      213: 1627224510645903334
+    second: main_fire_2_13
+  - first:
+      213: 7836051412337875725
+    second: main_fire_2_14
+  - first:
+      213: -2765421172423124123
+    second: main_fire_2_15
+  - first:
+      213: 4760540386583917048
+    second: main_fire_2_16
+  - first:
+      213: 5998229252746492279
+    second: main_fire_2_17
+  - first:
+      213: -5400986773221769145
+    second: main_fire_2_18
+  - first:
+      213: 7804340667200870226
+    second: main_fire_2_19
+  - first:
+      213: 8314237900290425986
+    second: main_fire_2_20
+  - first:
+      213: -6621310989701055514
+    second: main_fire_2_21
+  - first:
+      213: 6424165358243374516
+    second: main_fire_2_22
+  - first:
+      213: -7352061704234432002
+    second: main_fire_2_23
+  - first:
+      213: -2908986570784353744
+    second: main_fire_2_24
+  - first:
+      213: -7293810555971057134
+    second: main_fire_2_25
+  - first:
+      213: -4212894376204010598
+    second: main_fire_2_26
+  - first:
+      213: -1881183515193399932
+    second: main_fire_2_27
+  - first:
+      213: 1497448506169549898
+    second: main_fire_2_28
+  - first:
+      213: -726491306313382411
+    second: main_fire_2_29
+  - first:
+      213: 2713551411125805068
+    second: main_fire_2_30
+  - first:
+      213: -2021205692104422906
+    second: main_fire_2_31
+  - first:
+      213: -2800891566897111750
+    second: main_fire_2_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main_fire_2_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 704
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5be9d556edd0b342958db0edd3b92ec
+      internalID: -8491613340466759680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_fire_2_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 702
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c177dc5b2a2e94b8ed0037ff440c02
+      internalID: -5422558624253030173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_fire_2_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 704
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e49803005caf42942d9be5709a1b4
+      internalID: 5663881504906121461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_fire_2_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 385
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50438d491ecafb84f91363c9d72a92d8
+      internalID: 5998229252746492279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_fire_2_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 382
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb77ec45ca34c46b03d6a54799a63c
+      internalID: 8314237900290425986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_fire_2_22
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 384
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74080d2be5dab9418c994c35bc38435
+      internalID: 6424165358243374516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_fire_2_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c537ec5d41deed44ab34146b7fb2ee47
+      internalID: 2713551411125805068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_fire_2_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 64
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1f88c203dcc2d49b07578c39af48ea
+      internalID: -2800891566897111750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0641d328dd95a8842b11f2e75e40cfee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

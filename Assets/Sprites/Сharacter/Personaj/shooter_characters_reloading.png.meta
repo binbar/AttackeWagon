@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: 5d8fcb488321a02478486c00c2bc0858
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3179561949946102605
+    second: shooter_characters_reloading_0
+  - first:
+      213: 7987765993947016457
+    second: shooter_characters_reloading_1
+  - first:
+      213: 7341433285941691745
+    second: shooter_characters_reloading_2
+  - first:
+      213: -1703100863255061040
+    second: shooter_characters_reloading_3
+  - first:
+      213: -6063869848723865743
+    second: shooter_characters_reloading_4
+  - first:
+      213: 859172287092298548
+    second: shooter_characters_reloading_5
+  - first:
+      213: 1985331809323953263
+    second: shooter_characters_reloading_6
+  - first:
+      213: -753870844453384831
+    second: shooter_characters_reloading_7
+  - first:
+      213: 1489509968218851966
+    second: shooter_characters_reloading_8
+  - first:
+      213: 716212320826784090
+    second: shooter_characters_reloading_9
+  - first:
+      213: 6220088808396672929
+    second: shooter_characters_reloading_10
+  - first:
+      213: 4175430707609689074
+    second: shooter_characters_reloading_11
+  - first:
+      213: 3056053016929927228
+    second: shooter_characters_reloading_12
+  - first:
+      213: -3539468586469657074
+    second: shooter_characters_reloading_13
+  - first:
+      213: -1646439850823582472
+    second: shooter_characters_reloading_15
+  - first:
+      213: 7056217183176915930
+    second: shooter_characters_reloading_16
+  - first:
+      213: -1978617262409986644
+    second: shooter_characters_reloading_17
+  - first:
+      213: -8878079650454401347
+    second: shooter_characters_reloading_18
+  - first:
+      213: 3313193438015715246
+    second: shooter_characters_reloading_19
+  - first:
+      213: 8062328397776205865
+    second: shooter_characters_reloading_20
+  - first:
+      213: -2807520284719525582
+    second: shooter_characters_reloading_21
+  - first:
+      213: 8355811938423482388
+    second: shooter_characters_reloading_22
+  - first:
+      213: 5366451456290454714
+    second: shooter_characters_reloading_23
+  - first:
+      213: -5058037408657889962
+    second: shooter_characters_reloading_24
+  - first:
+      213: 7910564723918648357
+    second: shooter_characters_reloading_25
+  - first:
+      213: 1758593476864262631
+    second: shooter_characters_reloading_26
+  - first:
+      213: -2824265067444144169
+    second: shooter_characters_reloading_27
+  - first:
+      213: -7322723037406834908
+    second: shooter_characters_reloading_28
+  - first:
+      213: -3132318497838378107
+    second: shooter_characters_reloading_29
+  - first:
+      213: 8987802057969284542
+    second: shooter_characters_reloading_30
+  - first:
+      213: 3662699410716543983
+    second: shooter_characters_reloading_31
+  - first:
+      213: 2527849178416474558
+    second: shooter_characters_reloading_32
+  - first:
+      213: -7317614732267664038
+    second: shooter_characters_reloading_33
+  - first:
+      213: 7986556074713647131
+    second: shooter_characters_reloading_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shooter_characters_reloading_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1866
+        width: 153
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5350587, y: 0.027486302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa49c7737a2aa54580ffc66e2a45260
+      internalID: 3179561949946102605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1868
+        width: 158
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5135562, y: 0.010498047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928da746a0843ca48bbc9020888ca629
+      internalID: 7987765993947016457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1868
+        width: 164
+        height: 146
+      alignment: 9
+      pivot: {x: 0.50503725, y: 0.009521484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be494bcb1d4cf394bbe1f3261c1f7d41
+      internalID: 7341433285941691745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1868
+        width: 168
+        height: 146
+      alignment: 9
+      pivot: {x: 0.49101257, y: 0.009444564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e192160ee5ed44a9b7edc016298ec4
+      internalID: -1703100863255061040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1660
+        width: 177
+        height: 145
+      alignment: 9
+      pivot: {x: 0.4682312, y: 0.009816137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f25cd561304f40b58bf8929c4d7fa
+      internalID: -6063869848723865743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1660
+        width: 179
+        height: 144
+      alignment: 9
+      pivot: {x: 0.45190516, y: 0.010366652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b62627ce6441374480313f4cb800074
+      internalID: 859172287092298548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1660
+        width: 175
+        height: 144
+      alignment: 9
+      pivot: {x: 0.46460903, y: 0.012079875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f26707e33202e41904ee37423f179b
+      internalID: 1985331809323953263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1643
+        width: 164
+        height: 161
+      alignment: 9
+      pivot: {x: 0.49884108, y: 0.12124387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4b8e2fb65abdc45bb7770fa7eaceca
+      internalID: -753870844453384831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1431
+        width: 160
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5082433, y: 0.13940874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be811bb66775f478c85d3910b84de6
+      internalID: 1489509968218851966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1427
+        width: 156
+        height: 169
+      alignment: 9
+      pivot: {x: 0.52395725, y: 0.16013603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb7fb7b8e667bc4a83e2d31f3f863eb
+      internalID: 716212320826784090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1427
+        width: 156
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5288657, y: 0.16796225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c7895a39c5ab4488610196e248d0f
+      internalID: 6220088808396672929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_11
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1427
+        width: 155
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5248307, y: 0.16160028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cec3f4c807e5b4ca2c54a675982b84
+      internalID: 4175430707609689074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1219
+        width: 156
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5207688, y: 0.15498908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5dc639527c0d042a3831cf0a8a56a8
+      internalID: 3056053016929927228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1218
+        width: 153
+        height: 171
+      alignment: 9
+      pivot: {x: 0.52974623, y: 0.16318159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714bdd1e8620f7346861cec32359bc4b
+      internalID: -3539468586469657074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1216
+        width: 151
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5388895, y: 0.17113903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fb49e25ba5ff24da4e99f39f55fa76
+      internalID: -1646439850823582472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_16
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1216
+        width: 151
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5370774, y: 0.1715968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b2ce13116fd5742ac1b4a175c144cf
+      internalID: 7056217183176915930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1010
+        width: 153
+        height: 171
+      alignment: 9
+      pivot: {x: 0.53586257, y: 0.15933888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409350cf374968d4394a08e3a6d17ba8
+      internalID: -1978617262409986644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1011
+        width: 156
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5230128, y: 0.15989487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fed20941b772734a89b2248075250dd
+      internalID: -8878079650454401347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1011
+        width: 156
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5218193, y: 0.15607767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be294b1870eda9d46ab3fe748d174203
+      internalID: 3313193438015715246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_20
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1010
+        width: 153
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5393745, y: 0.15969938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfc2be56f412c34c81e4b352f1e7f3e
+      internalID: 8062328397776205865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 151
+        height: 172
+      alignment: 9
+      pivot: {x: 0.54080987, y: 0.1656125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0194e5ff2d9d54ab14c658f6487a90
+      internalID: -2807520284719525582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 800
+        width: 151
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5481921, y: 0.1721124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0a98be6caef754d83c0e1ca173cf19
+      internalID: 8355811938423482388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 800
+        width: 151
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5421688, y: 0.17211275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fdbbef03a564c42887fe16c61647e5
+      internalID: 5366451456290454714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 802
+        width: 153
+        height: 170
+      alignment: 9
+      pivot: {x: 0.53097713, y: 0.16094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c160be015119554aa6100e7436662a5
+      internalID: -5058037408657889962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 595
+        width: 156
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5258878, y: 0.15708534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec75ec8e9e0ccb642b93891bcf30e66a
+      internalID: 7910564723918648357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 611
+        width: 168
+        height: 153
+      alignment: 9
+      pivot: {x: 0.48579916, y: 0.068288766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc0f07e08ae6d8459063bab48ce091e
+      internalID: 1758593476864262631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 619
+        width: 177
+        height: 144
+      alignment: 9
+      pivot: {x: 0.4626934, y: 0.009795295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a4c926d1365b4a84f57d74bf847d9
+      internalID: -2824265067444144169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 620
+        width: 180
+        height: 144
+      alignment: 9
+      pivot: {x: 0.45880702, y: 0.009393056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98ab852788197b46bd66afbdb8a178f
+      internalID: -7322723037406834908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 412
+        width: 176
+        height: 145
+      alignment: 9
+      pivot: {x: 0.4711703, y: 0.01492057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0b6637b503946419c78049277ba488
+      internalID: -3132318497838378107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 412
+        width: 168
+        height: 146
+      alignment: 9
+      pivot: {x: 0.49246398, y: 0.0091602905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971e4497a2721644884cbef1b97fa31b
+      internalID: 8987802057969284542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 412
+        width: 164
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5026539, y: 0.0087744305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f7d17850b78440acb4b76b8938ffa
+      internalID: 3662699410716543983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_32
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 412
+        width: 158
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51351964, y: 0.009486192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca2dc20a3bf82c4094626d3627967b1
+      internalID: 2527849178416474558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 202
+        width: 153
+        height: 149
+      alignment: 9
+      pivot: {x: 0.53080064, y: 0.024755593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945e1dff99e53c5468e4644033ee5372
+      internalID: -7317614732267664038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_characters_reloading_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 202
+        width: 153
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5292963, y: 0.022606254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ab82d4f69110498d08b07c23842f1
+      internalID: 7986556074713647131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4511a9eee454d8d44ba53c966b7d5d0b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,891 @@
+fileFormatVersion: 2
+guid: 4ed666f57bfcfea4181713e53169eb7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3672207051359673206
+    second: horse_character_idle stay_0
+  - first:
+      213: -2130308501057575429
+    second: horse_character_idle stay_1
+  - first:
+      213: 4125536521179563063
+    second: horse_character_idle stay_2
+  - first:
+      213: -81512975889622707
+    second: horse_character_idle stay_3
+  - first:
+      213: -6172364746929168998
+    second: horse_character_idle stay_4
+  - first:
+      213: -7764996838489818319
+    second: horse_character_idle stay_5
+  - first:
+      213: 4885379972227717767
+    second: horse_character_idle stay_6
+  - first:
+      213: -4484346926259451212
+    second: horse_character_idle stay_7
+  - first:
+      213: -4598845360786388500
+    second: horse_character_idle stay_8
+  - first:
+      213: -6392414074996713642
+    second: horse_character_idle stay_9
+  - first:
+      213: -3444512501511032281
+    second: horse_character_idle stay_10
+  - first:
+      213: 3955328066206796649
+    second: horse_character_idle stay_11
+  - first:
+      213: -2322387512802376138
+    second: horse_character_idle stay_12
+  - first:
+      213: -9091272094926416256
+    second: horse_character_idle stay_13
+  - first:
+      213: -5636019095488076853
+    second: horse_character_idle stay_14
+  - first:
+      213: -1484747451340602286
+    second: horse_character_idle stay_15
+  - first:
+      213: -1333923691213136856
+    second: horse_character_idle stay_16
+  - first:
+      213: -4062514056186191719
+    second: horse_character_idle stay_17
+  - first:
+      213: 8171587970434327973
+    second: horse_character_idle stay_18
+  - first:
+      213: -4522951862683025092
+    second: horse_character_idle stay_19
+  - first:
+      213: 3029096874421011815
+    second: horse_character_idle stay_20
+  - first:
+      213: 8410499776032671729
+    second: horse_character_idle stay_21
+  - first:
+      213: 6657758805112944218
+    second: horse_character_idle stay_22
+  - first:
+      213: 1224123840627020045
+    second: horse_character_idle stay_23
+  - first:
+      213: -92847075730595356
+    second: horse_character_idle stay_24
+  - first:
+      213: -7755322673547000716
+    second: horse_character_idle stay_25
+  - first:
+      213: -1332902394580120906
+    second: horse_character_idle stay_26
+  - first:
+      213: -3251453085282677492
+    second: horse_character_idle stay_27
+  - first:
+      213: -2505362083745500552
+    second: horse_character_idle stay_28
+  - first:
+      213: -287441357723552558
+    second: horse_character_idle stay_29
+  - first:
+      213: -7327378437568098543
+    second: horse_character_idle stay_30
+  - first:
+      213: 6147247436308027586
+    second: horse_character_idle stay_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horse_character_idle stay_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3768
+        width: 383
+        height: 296
+      alignment: 9
+      pivot: {x: 0.60987836, y: 0.52187616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2772d18811e0d17468cc875861293aba
+      internalID: -3672207051359673206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3768
+        width: 384
+        height: 295
+      alignment: 9
+      pivot: {x: 0.60959226, y: 0.5246913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3dfa6d76b6e0642b330aa10c3adec7
+      internalID: -2130308501057575429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3767
+        width: 382
+        height: 297
+      alignment: 9
+      pivot: {x: 0.61228454, y: 0.52452505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8b27b481e808742aa439aa51954790
+      internalID: 4125536521179563063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_3
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3767
+        width: 382
+        height: 298
+      alignment: 9
+      pivot: {x: 0.6101662, y: 0.52444273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774037a66d71d004a8bb002c6fff05e2
+      internalID: -81512975889622707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3441
+        width: 382
+        height: 296
+      alignment: 9
+      pivot: {x: 0.6080473, y: 0.5246079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b610edd1a3e0554b80039366cb5487a
+      internalID: -6172364746929168998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3441
+        width: 382
+        height: 296
+      alignment: 9
+      pivot: {x: 0.6101661, y: 0.5246079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af56264127ba24ca9e0e03ef4227eb
+      internalID: -7764996838489818319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_6
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3441
+        width: 382
+        height: 298
+      alignment: 9
+      pivot: {x: 0.61228454, y: 0.5217269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d80b40cf2fb7c4c96528b7c929bf16
+      internalID: 4885379972227717767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_7
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3441
+        width: 382
+        height: 298
+      alignment: 9
+      pivot: {x: 0.6101662, y: 0.5217269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075ce42ff3b3b7c4da700d575382ccb2
+      internalID: -4484346926259451212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3113
+        width: 380
+        height: 300
+      alignment: 9
+      pivot: {x: 0.608616, y: 0.521582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e138c721306acdd4da9fe8d9e058f766
+      internalID: -4598845360786388500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3114
+        width: 380
+        height: 299
+      alignment: 9
+      pivot: {x: 0.60861605, y: 0.5162415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0136a7c9ce98a4680ec5b37e3cde74
+      internalID: -6392414074996713642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_10
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 3113
+        width: 380
+        height: 298
+      alignment: 9
+      pivot: {x: 0.60435665, y: 0.5217269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc434819e7987c6489ca88f3d36f4367
+      internalID: -3444512501511032281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_11
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3113
+        width: 382
+        height: 298
+      alignment: 9
+      pivot: {x: 0.60804754, y: 0.52444273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d72b5d86fb6b4694d4c372270170b
+      internalID: 3955328066206796649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2787
+        width: 383
+        height: 298
+      alignment: 9
+      pivot: {x: 0.6091452, y: 0.5200392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64788bec068def4193128a2d5808b3c
+      internalID: -2322387512802376138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2787
+        width: 382
+        height: 298
+      alignment: 9
+      pivot: {x: 0.6094308, y: 0.5233793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5b3cd22a35014ba56116bd0e78ca3
+      internalID: -9091272094926416256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_14
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2785
+        width: 382
+        height: 301
+      alignment: 9
+      pivot: {x: 0.6068253, y: 0.52645236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9153a9aa854e04482843cc312e8a75
+      internalID: -5636019095488076853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_15
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2787
+        width: 384
+        height: 296
+      alignment: 9
+      pivot: {x: 0.61145276, y: 0.52689916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170ee80405d7f204794a8c11d617cc8f
+      internalID: -1484747451340602286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2456
+        width: 384
+        height: 301
+      alignment: 9
+      pivot: {x: 0.6114529, y: 0.52645236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497a0c9c87a4d27418b54b0af4a0e67c
+      internalID: -1333923691213136856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_17
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2460
+        width: 384
+        height: 297
+      alignment: 9
+      pivot: {x: 0.6114529, y: 0.5201067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba413e65397f10499a70ae8e9458994
+      internalID: -4062514056186191719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_18
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2460
+        width: 384
+        height: 296
+      alignment: 9
+      pivot: {x: 0.6168998, y: 0.52202624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375f69a1e0b31434ba5dc4e26286e0ce
+      internalID: 8171587970434327973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_19
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2456
+        width: 384
+        height: 299
+      alignment: 9
+      pivot: {x: 0.60886097, y: 0.52995825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f927c83921ae514fb03c493bbb1decd
+      internalID: -4522951862683025092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2128
+        width: 384
+        height: 299
+      alignment: 9
+      pivot: {x: 0.60898715, y: 0.5342785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04ef0b688600084b87250e78d5f2f3a
+      internalID: 3029096874421011815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2128
+        width: 386
+        height: 299
+      alignment: 9
+      pivot: {x: 0.6125425, y: 0.53551555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f8bcd79ac55a429acb228342ee4d3
+      internalID: 8410499776032671729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_22
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2128
+        width: 386
+        height: 299
+      alignment: 9
+      pivot: {x: 0.6125428, y: 0.53551555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424609a0670e1d47a0b8e4e7e355a9a
+      internalID: 6657758805112944218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_23
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 2128
+        width: 386
+        height: 299
+      alignment: 9
+      pivot: {x: 0.6125428, y: 0.53551555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59372f2b7eb9614aba5966d14eeab65
+      internalID: 1224123840627020045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1807
+        width: 387
+        height: 292
+      alignment: 9
+      pivot: {x: 0.61390376, y: 0.5286309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3530861971793674999ec07bd588415b
+      internalID: -92847075730595356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_25
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1807
+        width: 386
+        height: 292
+      alignment: 9
+      pivot: {x: 0.61299634, y: 0.5280072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19b97ef5143914192fada98004ea43
+      internalID: -7755322673547000716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_26
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1807
+        width: 386
+        height: 294
+      alignment: 9
+      pivot: {x: 0.6165275, y: 0.52781624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d403178a5a54f7648a984cb251288517
+      internalID: -1332902394580120906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_27
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1807
+        width: 384
+        height: 294
+      alignment: 9
+      pivot: {x: 0.60648537, y: 0.52781624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d0a2b77d82bf4cbf7bd57873bb4eb
+      internalID: -3251453085282677492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1479
+        width: 384
+        height: 294
+      alignment: 9
+      pivot: {x: 0.6115299, y: 0.5273134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f3455cf027a3140be1f67a6017fcbc
+      internalID: -2505362083745500552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1479
+        width: 384
+        height: 296
+      alignment: 9
+      pivot: {x: 0.61006707, y: 0.518306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37aec0fec059fc4a872ab28e98414c8
+      internalID: -287441357723552558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_30
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1479
+        width: 384
+        height: 294
+      alignment: 9
+      pivot: {x: 0.6128893, y: 0.5258029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a51dba925869d248a8ead76ebb76c02
+      internalID: -7327378437568098543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_idle stay_31
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 3740
+        width: 161
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992ebefdab5dd64d86df5e59f71236a
+      internalID: 6147247436308027586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a7eb3e1c50044d440bc02fd8b371c378
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

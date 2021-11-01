@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: 63ebc21515ed53e4aa4fca1df4d59a09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3495246903629230691
+    second: horse_character_walk_0
+  - first:
+      213: 8748627003754107125
+    second: horse_character_walk_1
+  - first:
+      213: -2119388807181522039
+    second: horse_character_walk_2
+  - first:
+      213: -4507299057351621175
+    second: horse_character_walk_3
+  - first:
+      213: -832002962318332795
+    second: horse_character_walk_4
+  - first:
+      213: -6684054154336860461
+    second: horse_character_walk_5
+  - first:
+      213: -7136193809952229931
+    second: horse_character_walk_6
+  - first:
+      213: 852901774021267478
+    second: horse_character_walk_7
+  - first:
+      213: 2574534464921735683
+    second: horse_character_walk_8
+  - first:
+      213: -6417173679216799844
+    second: horse_character_walk_9
+  - first:
+      213: 1829639655381857178
+    second: horse_character_walk_10
+  - first:
+      213: -3357896953882742594
+    second: horse_character_walk_11
+  - first:
+      213: 5317844996788331944
+    second: horse_character_walk_12
+  - first:
+      213: -1127508970560193219
+    second: horse_character_walk_13
+  - first:
+      213: 3577303927988120707
+    second: horse_character_walk_14
+  - first:
+      213: 7335401454964324680
+    second: horse_character_walk_15
+  - first:
+      213: 2693497760963835405
+    second: horse_character_walk_16
+  - first:
+      213: -284074600080870316
+    second: horse_character_walk_17
+  - first:
+      213: 72050460835686599
+    second: horse_character_walk_18
+  - first:
+      213: 6883062735054625183
+    second: horse_character_walk_19
+  - first:
+      213: 668573205068387597
+    second: horse_character_walk_20
+  - first:
+      213: -7677922861130511851
+    second: horse_character_walk_21
+  - first:
+      213: -296054246499016946
+    second: horse_character_walk_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horse_character_walk_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1723
+        width: 379
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68958225618e18d498deea38056ee292
+      internalID: -3495246903629230691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1723
+        width: 378
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92339584b12c0c842af78f34900a81b4
+      internalID: 8748627003754107125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1723
+        width: 377
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f54d9dcfb2c9284aa90c8797c717c3a
+      internalID: -2119388807181522039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_3
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1723
+        width: 377
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0c762d3b1eb5947ac0694d9585680f
+      internalID: -4507299057351621175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1397
+        width: 375
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7544ad5e23858428e8655f48316905
+      internalID: -832002962318332795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1397
+        width: 375
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3945cf1f1e9794397cc0ec9e062ab1
+      internalID: -6684054154336860461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_6
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1397
+        width: 374
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ef613b0df68941b72479e7ebeb216
+      internalID: -7136193809952229931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1397
+        width: 373
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46d0fdcca7ee2248ae665ebd83ec521
+      internalID: 852901774021267478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1071
+        width: 371
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dfa9bf108451f4eb0f92cb3be618a2
+      internalID: 2574534464921735683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1071
+        width: 373
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4052a75dc622146baeec0c4a41962d
+      internalID: -6417173679216799844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1071
+        width: 374
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc914712053c924fa909ce34a3b05e9
+      internalID: 1829639655381857178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_11
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1071
+        width: 376
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1c7a23a2b7a834499d57333670945a
+      internalID: -3357896953882742594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 745
+        width: 378
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f817009026500b4194b7ce44a3d7ceb
+      internalID: 5317844996788331944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 745
+        width: 376
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d9073c1bd22ef4f869879252c3c573
+      internalID: -1127508970560193219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_14
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 745
+        width: 376
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c400ec0ce0d54954ea542ea0d2a85130
+      internalID: 3577303927988120707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_15
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 745
+        width: 374
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd28767b583dbf4882ca018003672a2
+      internalID: 7335401454964324680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 419
+        width: 373
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f309a7f0ccc7834438227b9250c3215b
+      internalID: 2693497760963835405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_17
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 419
+        width: 373
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab0c3ac43a1b8b49bad0b8d8452e570
+      internalID: -284074600080870316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_18
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 419
+        width: 371
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb968c9dc787b0a468bf9741d68f985b
+      internalID: 72050460835686599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_19
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 419
+        width: 373
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ce957580fada4bae4cc061ee295e6
+      internalID: 6883062735054625183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 93
+        width: 375
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c149fe6be8bbb14bb3cb959a1f380f6
+      internalID: 668573205068387597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 93
+        width: 378
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b9960a3abaac0468271a637bafc803
+      internalID: -7677922861130511851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse_character_walk_22
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 93
+        width: 379
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a87acb70ff12ca4e91d9c53974ab1a6
+      internalID: -296054246499016946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3e9bdfb7b8cba92448bae494a367c720
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
